@@ -1,0 +1,1 @@
+# TEST_LORA_OTAA
